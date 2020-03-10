@@ -1,0 +1,21 @@
+[{
+  "file": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\Constants\\main.cpp",
+  "directory": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\Constants",
+  "command": "clang  -c \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\Constants\\main.cpp\" -o \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\Constants\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\SizeofOperator\\main.cpp",
+  "directory": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\SizeofOperator",
+  "command": "clang  -c \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\SizeofOperator\\main.cpp\" -o \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\SizeofOperator\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\PrimitiveTypes\\main.cpp",
+  "directory": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\PrimitiveTypes",
+  "command": "clang  -c \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\PrimitiveTypes\\main.cpp\" -o \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\PrimitiveTypes\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\InitializingVariables\\main.cpp",
+  "directory": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\InitializingVariables",
+  "command": "clang  -c \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\InitializingVariables\\main.cpp\" -o \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\InitializingVariables\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\GlobalVariables\\main.cpp",
+  "directory": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\GlobalVariables",
+  "command": "clang  -c \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\GlobalVariables\\main.cpp\" -o \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section6\\GlobalVariables\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]

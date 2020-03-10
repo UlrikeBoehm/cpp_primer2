@@ -1,0 +1,13 @@
+[{
+  "file": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section7\\ChallengeSolution\\main.cpp",
+  "directory": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section7\\ChallengeSolution",
+  "command": "clang  -c \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section7\\ChallengeSolution\\main.cpp\" -o \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section7\\ChallengeSolution\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section7\\Arrays\\main.cpp",
+  "directory": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section7\\Arrays",
+  "command": "clang  -c \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section7\\Arrays\\main.cpp\" -o \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section7\\Arrays\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section7\\Vectors\\main.cpp",
+  "directory": "C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section7\\Vectors",
+  "command": "clang  -c \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section7\\Vectors\\main.cpp\" -o \"C:\\Users\\Ulrike Boehm\\Desktop\\CPPExamples\\Section7\\Vectors\\main.cpp\".o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++17  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]
